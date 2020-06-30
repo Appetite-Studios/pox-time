@@ -1,0 +1,16 @@
+#text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    line-height: 249px;
+}
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background: #1f2643;
+    height: 36px;
+    width: 100%;
+    -webkit-app-region: drag;
+}
